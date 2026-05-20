@@ -44,7 +44,8 @@ proyecto 8/
 │   └── reporte_gestion_ambiental.xlsx
 │
 ├── src/
-│   └── analisis_principal.py
+│   ├── analisis_principal.py
+│   └── funciones.py
 │
 └── README.md
 ```
